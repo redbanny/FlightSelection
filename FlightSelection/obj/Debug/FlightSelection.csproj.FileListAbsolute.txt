@@ -1,0 +1,6 @@
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\obj\Debug\FlightSelection.csproj.CoreCompileInputs.cache
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\bin\Debug\FlightSelection.exe.config
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\bin\Debug\FlightSelection.exe
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\bin\Debug\FlightSelection.pdb
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\obj\Debug\FlightSelection.exe
+C:\Users\gavakov\source\repos\FlightSelection\FlightSelection\FlightSelection\obj\Debug\FlightSelection.pdb
